@@ -5,6 +5,6 @@ intellij 平台插件(intellij plugins)
 * https://github.com/cn-src/intellij-file-icon
   > * 改变已有的文件图标
 
-* https://github.com/cn-src/intellij-maven-wrapper-plugin
+* https://github.com/cn-src/intellij-maven-wrapper
   > * maven wrapper 自动配置
   > * 自动修复 mac brew 更新后的 maven 位置
