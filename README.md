@@ -10,4 +10,4 @@ intellij 平台插件(intellij plugins)
   > * 自动修复 mac brew 更新后的 maven 位置
 
 * https://github.com/cn-src/intellij-image-icon
-  > * 图片图标生成
+  > * 图片图标生成
