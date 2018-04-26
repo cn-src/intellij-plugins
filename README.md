@@ -8,3 +8,6 @@ intellij 平台插件(intellij plugins)
 * https://github.com/cn-src/intellij-maven-wrapper
   > * maven wrapper 自动配置
   > * 自动修复 mac brew 更新后的 maven 位置
+
+* https://github.com/cn-src/intellij-image-icon
+  > * 图片图标生成
